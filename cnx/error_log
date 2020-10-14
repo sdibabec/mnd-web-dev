@@ -1,0 +1,4 @@
+[21-Sep-2020 22:18:54 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/sdiba691/dominios/catrina/web/cnx/swgc-mysql.php on line 2
+[21-Sep-2020 22:20:22 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/sdiba691/dominios/catrina/web/cnx/swgc-mysql.php on line 2
+[21-Sep-2020 22:21:34 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/sdiba691/dominios/catrina/web/cnx/swgc-mysql.php on line 2
+[21-Sep-2020 22:22:39 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/sdiba691/dominios/catrina/web/cnx/swgc-mysql.php on line 2
